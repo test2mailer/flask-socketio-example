@@ -1,4 +1,4 @@
-# flask-socketio-example
+# Flask-socketio-example
 
 ### Create an environment
 `$python3 -m venv venv`
